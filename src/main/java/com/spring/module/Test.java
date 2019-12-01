@@ -11,7 +11,9 @@ public class Test {
 	public void printMethod(){
 		System.out.println("this is the test method....");
 	}
-
 	
+	public viod setTestNames(){
+	System.out.println("Setting name method in the Test class");	
+	}
 	
 }
