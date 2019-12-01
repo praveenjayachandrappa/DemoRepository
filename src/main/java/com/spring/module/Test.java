@@ -12,7 +12,7 @@ public class Test {
 		System.out.println("this is the test method....");
 	}
 	
-	public viod setTestNames(){
+	public void setTestNames(){
 	System.out.println("Setting name method in the Test class");	
 	}
 	
