@@ -1,3 +1,4 @@
+package com.spring.module;
 public class Department{
 
       Department(){
